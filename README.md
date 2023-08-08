@@ -34,3 +34,13 @@ Allows clients to retrieve a paginated list of products. Clients can specify the
 Url : http://localhost:8080/create-campaigns
 
 Used to create campaigns with associated discounts. It receives campaign details and discount information in the request body as JSON data.
+
+## Optional Endpoints
+
+### 1. Get Campaigns
+Url : http://localhost:8080/campaigns
+Used to retrieve a list of campaigns.
+
+### 2. Add multiple products
+Url : http://localhost:8080/add-products
+Accepts list of json items (data provided in codbase) and stores it in databse.
