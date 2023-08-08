@@ -1,0 +1,402 @@
+[
+    {
+        "title": "Product 1",
+        "description": "Ut adipisci dolorem velit etincidunt etincidunt amet.",
+        "price": 93.31,
+        "current_price": 28.79,
+        "discount": 28.0,
+        "inventory_count": 62
+    },
+    {
+        "title": "Product 2",
+        "description": "Tempora tempora porro est etincidunt est eius etincidunt.",
+        "price": 90.45,
+        "current_price": 46.32,
+        "discount": 34.54,
+        "inventory_count": 30
+    },
+    {
+        "title": "Product 3",
+        "description": "Velit porro labore dolore dolor.",
+        "price": 39.64,
+        "current_price": 70.38,
+        "discount": 9.71,
+        "inventory_count": 28
+    },
+    {
+        "title": "Product 4",
+        "description": "Sit magnam magnam sed quiquia dolore amet.",
+        "price": 21.66,
+        "current_price": 43.35,
+        "discount": 33.41,
+        "inventory_count": 14
+    },
+    {
+        "title": "Product 5",
+        "description": "Consectetur dolorem neque neque magnam numquam.",
+        "price": 43.49,
+        "current_price": 21.67,
+        "discount": 23.05,
+        "inventory_count": 23
+    },
+    {
+        "title": "Product 6",
+        "description": "Neque tempora quaerat est velit ut quiquia sed.",
+        "price": 31.04,
+        "current_price": 28.23,
+        "discount": 23.79,
+        "inventory_count": 71
+    },
+    {
+        "title": "Product 7",
+        "description": "Dolorem ut neque quiquia.",
+        "price": 50.93,
+        "current_price": 47.42,
+        "discount": 32.66,
+        "inventory_count": 57
+    },
+    {
+        "title": "Product 8",
+        "description": "Numquam dolor modi adipisci eius velit quisquam.",
+        "price": 48.42,
+        "current_price": 68.63,
+        "discount": 11.7,
+        "inventory_count": 2
+    },
+    {
+        "title": "Product 9",
+        "description": "Amet aliquam consectetur sit.",
+        "price": 42.37,
+        "current_price": 50.55,
+        "discount": 11.58,
+        "inventory_count": 76
+    },
+    {
+        "title": "Product 10",
+        "description": "Adipisci magnam neque non aliquam dolor.",
+        "price": 47.28,
+        "current_price": 10.79,
+        "discount": 18.6,
+        "inventory_count": 38
+    },
+    {
+        "title": "Product 11",
+        "description": "Tempora neque labore magnam labore.",
+        "price": 52.15,
+        "current_price": 68.87,
+        "discount": 46.79,
+        "inventory_count": 91
+    },
+    {
+        "title": "Product 12",
+        "description": "Eius sed ipsum quiquia dolore.",
+        "price": 70.66,
+        "current_price": 47.9,
+        "discount": 13.96,
+        "inventory_count": 1
+    },
+    {
+        "title": "Product 13",
+        "description": "Adipisci numquam est quaerat eius ut labore dolorem.",
+        "price": 57.46,
+        "current_price": 16.81,
+        "discount": 30.02,
+        "inventory_count": 40
+    },
+    {
+        "title": "Product 14",
+        "description": "Quiquia modi adipisci ipsum adipisci eius dolorem.",
+        "price": 38.36,
+        "current_price": 33.66,
+        "discount": 34.85,
+        "inventory_count": 69
+    },
+    {
+        "title": "Product 15",
+        "description": "Porro aliquam ipsum ipsum quisquam voluptatem non quiquia.",
+        "price": 76.42,
+        "current_price": 70.25,
+        "discount": 19.72,
+        "inventory_count": 50
+    },
+    {
+        "title": "Product 16",
+        "description": "Neque neque velit numquam amet consectetur ut consectetur.",
+        "price": 17.58,
+        "current_price": 51.86,
+        "discount": 11.77,
+        "inventory_count": 57
+    },
+    {
+        "title": "Product 17",
+        "description": "Voluptatem labore est non.",
+        "price": 40.52,
+        "current_price": 60.17,
+        "discount": 13.76,
+        "inventory_count": 67
+    },
+    {
+        "title": "Product 18",
+        "description": "Quiquia eius sit dolore porro neque consectetur quiquia.",
+        "price": 73.44,
+        "current_price": 78.02,
+        "discount": 46.64,
+        "inventory_count": 9
+    },
+    {
+        "title": "Product 19",
+        "description": "Quaerat modi neque sed.",
+        "price": 72.59,
+        "current_price": 71.39,
+        "discount": 14.87,
+        "inventory_count": 45
+    },
+    {
+        "title": "Product 20",
+        "description": "Ipsum velit eius consectetur neque porro quiquia.",
+        "price": 67.1,
+        "current_price": 18.99,
+        "discount": 6.1,
+        "inventory_count": 32
+    },
+    {
+        "title": "Product 21",
+        "description": "Quisquam neque quiquia etincidunt amet ipsum.",
+        "price": 46.06,
+        "current_price": 76.59,
+        "discount": 13.35,
+        "inventory_count": 61
+    },
+    {
+        "title": "Product 22",
+        "description": "Modi neque quisquam numquam dolore tempora est tempora.",
+        "price": 18.67,
+        "current_price": 38.32,
+        "discount": 22.42,
+        "inventory_count": 11
+    },
+    {
+        "title": "Product 23",
+        "description": "Neque eius dolor etincidunt.",
+        "price": 78.09,
+        "current_price": 31.23,
+        "discount": 16.51,
+        "inventory_count": 95
+    },
+    {
+        "title": "Product 24",
+        "description": "Neque neque numquam consectetur neque.",
+        "price": 81.57,
+        "current_price": 8.85,
+        "discount": 8.58,
+        "inventory_count": 82
+    },
+    {
+        "title": "Product 25",
+        "description": "Quaerat ipsum consectetur dolorem modi ut velit tempora.",
+        "price": 58.88,
+        "current_price": 36.31,
+        "discount": 38.34,
+        "inventory_count": 63
+    },
+    {
+        "title": "Product 26",
+        "description": "Sit voluptatem etincidunt magnam.",
+        "price": 53.33,
+        "current_price": 42.69,
+        "discount": 29.66,
+        "inventory_count": 51
+    },
+    {
+        "title": "Product 27",
+        "description": "Ipsum voluptatem ipsum quiquia dolorem.",
+        "price": 86.28,
+        "current_price": 9.17,
+        "discount": 35.16,
+        "inventory_count": 9
+    },
+    {
+        "title": "Product 28",
+        "description": "Magnam est consectetur numquam sed consectetur sed modi.",
+        "price": 47.64,
+        "current_price": 20.98,
+        "discount": 35.11,
+        "inventory_count": 72
+    },
+    {
+        "title": "Product 29",
+        "description": "Dolore labore quaerat ipsum sed ut eius.",
+        "price": 21.24,
+        "current_price": 79.61,
+        "discount": 16.99,
+        "inventory_count": 59
+    },
+    {
+        "title": "Product 30",
+        "description": "Sed quiquia numquam non.",
+        "price": 46.0,
+        "current_price": 11.2,
+        "discount": 7.24,
+        "inventory_count": 23
+    },
+    {
+        "title": "Product 31",
+        "description": "Non dolor adipisci est etincidunt est dolor.",
+        "price": 45.34,
+        "current_price": 34.21,
+        "discount": 20.11,
+        "inventory_count": 30
+    },
+    {
+        "title": "Product 32",
+        "description": "Etincidunt non dolorem sed tempora dolorem.",
+        "price": 12.01,
+        "current_price": 9.4,
+        "discount": 16.41,
+        "inventory_count": 30
+    },
+    {
+        "title": "Product 33",
+        "description": "Aliquam labore eius est porro.",
+        "price": 86.07,
+        "current_price": 27.8,
+        "discount": 33.59,
+        "inventory_count": 85
+    },
+    {
+        "title": "Product 34",
+        "description": "Quaerat quaerat sit ut.",
+        "price": 15.27,
+        "current_price": 12.17,
+        "discount": 16.61,
+        "inventory_count": 95
+    },
+    {
+        "title": "Product 35",
+        "description": "Magnam non ipsum etincidunt labore est voluptatem.",
+        "price": 15.28,
+        "current_price": 16.77,
+        "discount": 38.56,
+        "inventory_count": 22
+    },
+    {
+        "title": "Product 36",
+        "description": "Velit etincidunt ipsum est aliquam modi.",
+        "price": 92.59,
+        "current_price": 61.88,
+        "discount": 36.14,
+        "inventory_count": 65
+    },
+    {
+        "title": "Product 37",
+        "description": "Sit dolorem neque ipsum amet eius dolore.",
+        "price": 23.44,
+        "current_price": 22.75,
+        "discount": 27.48,
+        "inventory_count": 40
+    },
+    {
+        "title": "Product 38",
+        "description": "Porro ipsum amet adipisci quaerat numquam.",
+        "price": 96.11,
+        "current_price": 46.72,
+        "discount": 40.49,
+        "inventory_count": 57
+    },
+    {
+        "title": "Product 39",
+        "description": "Velit voluptatem etincidunt dolore numquam quaerat ut.",
+        "price": 31.73,
+        "current_price": 33.22,
+        "discount": 29.86,
+        "inventory_count": 83
+    },
+    {
+        "title": "Product 40",
+        "description": "Dolor eius consectetur dolore est ut dolor sit.",
+        "price": 49.15,
+        "current_price": 72.93,
+        "discount": 35.04,
+        "inventory_count": 75
+    },
+    {
+        "title": "Product 41",
+        "description": "Sed quisquam aliquam quisquam consectetur.",
+        "price": 63.74,
+        "current_price": 45.4,
+        "discount": 43.51,
+        "inventory_count": 79
+    },
+    {
+        "title": "Product 42",
+        "description": "Labore labore quaerat adipisci.",
+        "price": 12.59,
+        "current_price": 68.53,
+        "discount": 44.9,
+        "inventory_count": 73
+    },
+    {
+        "title": "Product 43",
+        "description": "Magnam magnam est non.",
+        "price": 60.62,
+        "current_price": 11.14,
+        "discount": 20.84,
+        "inventory_count": 9
+    },
+    {
+        "title": "Product 44",
+        "description": "Ut ipsum non modi tempora eius ut ut.",
+        "price": 69.97,
+        "current_price": 54.58,
+        "discount": 47.98,
+        "inventory_count": 55
+    },
+    {
+        "title": "Product 45",
+        "description": "Quaerat consectetur voluptatem non dolore labore labore etincidunt.",
+        "price": 72.79,
+        "current_price": 55.2,
+        "discount": 45.39,
+        "inventory_count": 81
+    },
+    {
+        "title": "Product 46",
+        "description": "Dolore est porro voluptatem numquam numquam magnam neque.",
+        "price": 88.24,
+        "current_price": 73.17,
+        "discount": 34.9,
+        "inventory_count": 72
+    },
+    {
+        "title": "Product 47",
+        "description": "Aliquam numquam numquam quisquam eius.",
+        "price": 93.78,
+        "current_price": 70.0,
+        "discount": 49.77,
+        "inventory_count": 54
+    },
+    {
+        "title": "Product 48",
+        "description": "Neque labore dolore est adipisci est sit magnam.",
+        "price": 93.47,
+        "current_price": 8.31,
+        "discount": 37.81,
+        "inventory_count": 67
+    },
+    {
+        "title": "Product 49",
+        "description": "Consectetur tempora dolor sit voluptatem neque amet.",
+        "price": 15.87,
+        "current_price": 68.98,
+        "discount": 27.81,
+        "inventory_count": 13
+    },
+    {
+        "title": "Product 50",
+        "description": "Ipsum modi magnam aliquam aliquam.",
+        "price": 69.58,
+        "current_price": 51.86,
+        "discount": 22.01,
+        "inventory_count": 59
+    }
+]
