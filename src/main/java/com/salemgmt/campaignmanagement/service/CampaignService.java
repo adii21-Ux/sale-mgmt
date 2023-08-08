@@ -29,5 +29,9 @@ public class CampaignService {
         }
         return campaign;
     }
+
+    public List<Campaign> getAllCampaigns() {
+        return campaignRepository.findAll();
+    }
 }
 

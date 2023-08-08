@@ -4,10 +4,12 @@ import com.salemgmt.campaignmanagement.service.CampaignService;
 import com.salemgmt.campaignmanagement.response.CampaignRequest;
 import com.salemgmt.campaignmanagement.model.CampaignDiscount;
 import com.salemgmt.campaignmanagement.model.Campaign;
+import com.salemgmt.campaignmanagement.response.CampaignGetResponse;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
@@ -39,6 +41,12 @@ public class CampaignController {
         campaignService.createCampaign(campaign, campaignDiscounts);
 
         return new ResponseEntity<>("Campaign created successfully.", HttpStatus.CREATED);
+    }
+
+    @GetMapping("/campaigns")
+    public CampaignGetResponse getCampaigns() {
+        List<Campaign> campaigns = campaignService.getAllCampaigns();
+        return new CampaignGetResponse(campaigns);
     }
 }
 
